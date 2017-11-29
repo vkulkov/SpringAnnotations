@@ -1,4 +1,4 @@
-package com.springinaction.autowiring;
+package com.springinaction.general;
 
 public interface Instrument {
     void play();

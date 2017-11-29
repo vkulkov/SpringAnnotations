@@ -1,4 +1,4 @@
-package com.springinaction.autowiring;
+package com.springinaction.annotations.autowired;
 
 import com.springinaction.general.Instrument;
 

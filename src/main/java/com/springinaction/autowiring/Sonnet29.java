@@ -1,5 +1,7 @@
 package com.springinaction.autowiring;
 
+import com.springinaction.general.Poem;
+
 public class Sonnet29 implements Poem {
     private static String[] LINES = {
             "Когда в раздоре с миром и судьбой,",

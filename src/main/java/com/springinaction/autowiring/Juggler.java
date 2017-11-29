@@ -1,5 +1,7 @@
 package com.springinaction.autowiring;
 
+import com.springinaction.general.Performer;
+
 public class Juggler implements Performer {
     private int beanBags = 3;
 

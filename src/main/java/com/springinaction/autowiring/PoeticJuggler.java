@@ -1,5 +1,7 @@
 package com.springinaction.autowiring;
 
+import com.springinaction.general.Poem;
+
 public class PoeticJuggler extends Juggler {
     private Poem poem;
 
